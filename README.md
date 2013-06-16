@@ -5,6 +5,6 @@ resume-source
 - 文件包中的其他文件均为必要文件，在编译中需要包含。
 
 
->注：此模板来自于网上开源模板[modercv][1]
+>注：此模板来自于网上开源模板[moderncv][1]
 
 [1]:http://www.ctan.org/tex-archive/macros/latex/contrib/moderncv
