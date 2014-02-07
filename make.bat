@@ -12,5 +12,3 @@ latex my_cv_en.tex
 dvips my_cv_en.dvi
 ps2pdf my_cv_en.ps
 echo "================>END<================="
-
-pause
